@@ -1,0 +1,21 @@
+body{
+    background:lightblue;
+}
+.summary{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    bottom: -25
+}
+
+.name{
+    font-size: 50px;
+   text-align: center;
+   position: relative;
+   bottom: -25px;
+}
+.image{
+    text-align: center;
+    position: relative;
+    bottom: -25px;
+}
